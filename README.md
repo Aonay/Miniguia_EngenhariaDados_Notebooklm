@@ -4,11 +4,10 @@
 
 <p align="center">
 
-![GitHub last commit](https://img.shields.io/github/last-commit/SEU_USUARIO/SEU_REPOSITORIO?style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/SEU_USUARIO/SEU_REPOSITORIO?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/SEU_USUARIO/SEU_REPOSITORIO?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Aonay/Miniguia_EngenhariaDados_Notebooklm?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/Aonay/Miniguia_EngenhariaDados_Notebooklm?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/Aonay/Miniguia_EngenhariaDados_Notebooklm?style=for-the-badge)
 ![NotebookLM](https://img.shields.io/badge/Google-NotebookLM-blue?style=for-the-badge)
-
 
 ---
 
@@ -74,11 +73,7 @@ A proposta consiste em utilizar IA para organizar conhecimento, comparar diferen
 
 Espaço destinado ao upload dos artigos, livros, PDFs e documentações.
 
-📷 **Imagem**
-
-```
-docs/images/fontes.png
-```
+📷 **Print da Seção Fontes onde todo material é incluído, é possivel categorizar o contéudo pra ficar mais organizado.**
 
 <img src="docs/images/fontes.png">
 
@@ -88,11 +83,7 @@ docs/images/fontes.png
 
 Espaço utilizado para realizar perguntas ao NotebookLM.
 
-📷
-
-```
-docs/images/conversas.png
-```
+📷 **No print dessa sessão é possivel ver que ela faz um resumo com base em todo conteúdo nas fontes, ela pode ser personalizada e também configurada pra mudar o tipo de padrão de respostas. As sugestões de perguntas são muito úteis.**
 
 <img src="docs/images/conversas.png">
 
@@ -145,7 +136,7 @@ docs/images/estudio.png
 | ----------------------------------- | ---- |
 | Modern Data Stack                   |      |
 | Data Lake vs Lakehouse vs Warehouse |      |
-| Tendências da Engenharia de Dados  |      |
+| Tendências da Engenharia de Dados   |      |
 
 ---
 
@@ -220,11 +211,11 @@ Resumo...
 
 # 🩹 Dificuldades Encontradas
 
-| Problema                   | Como resolvi                   |
-| -------------------------- | ------------------------------ |
+| Problema                  | Como resolvi                   |
+| ------------------------- | ------------------------------ |
 | Respostas muito genéricas | Passei a limitar o contexto    |
-| IA misturando conceitos    | Solicitei tabelas comparativas |
-| Poucos exemplos            | Pedi exemplos reais            |
+| IA misturando conceitos   | Solicitei tabelas comparativas |
+| Poucos exemplos           | Pedi exemplos reais            |
 
 ---
 
@@ -284,16 +275,16 @@ Resumo...
 
 # 📖 Glossário
 
-| Termo          | Significado                   |
-| -------------- | ----------------------------- |
-| ETL            | Extract Transform Load        |
-| ELT            | Extract Load Transform        |
-| Data Lake      | Repositório de dados brutos  |
-| Lakehouse      | Mistura Data Lake + Warehouse |
-| Pipeline       | Fluxo automatizado de dados   |
-| Orquestração | Coordenação dos pipelines   |
-| Batch          | Processamento em lote         |
-| Streaming      | Processamento em tempo real   |
+| Termo        | Significado                   |
+| ------------ | ----------------------------- |
+| ETL          | Extract Transform Load        |
+| ELT          | Extract Load Transform        |
+| Data Lake    | Repositório de dados brutos   |
+| Lakehouse    | Mistura Data Lake + Warehouse |
+| Pipeline     | Fluxo automatizado de dados   |
+| Orquestração | Coordenação dos pipelines     |
+| Batch        | Processamento em lote         |
+| Streaming    | Processamento em tempo real   |
 
 ---
 
