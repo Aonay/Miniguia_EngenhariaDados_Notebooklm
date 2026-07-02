@@ -69,6 +69,10 @@ A proposta consiste em utilizar IA para organizar conhecimento, comparar diferen
 
 ## 📂 Estrutura do NotebookLM
 
+O NotebookLM tráz  ferrarmentas incríveis para estudar qualquer tipo de assunto, é possivel subir todas fontes (texto, videos, links, pdfs, etc.) relacionadas ao assunto deseja se aprofundar, usar a conversa com uma IA focada no conteúdo disponibilizado (É uma LLM com RAG prontinha pra usar), e ainda gerar diversos tipos de materiais de apoio como infográficos, mapas mentais e até mesmo um podcast. 
+
+Abaixo um pouquinho do layout da aplicação:
+
 ### 📚 Fontes
 
 Espaço destinado ao upload dos artigos, livros, PDFs e documentações.
@@ -91,22 +95,27 @@ Espaço utilizado para realizar perguntas ao NotebookLM.
 
 ### 📖 Estúdio
 
+📷 **As possibilidades são muitas, voce pode personalizar os prompts ao gerar o material ou usar as sugestões que a ferramenta dá.** 
+
+<img src="docs/images/estudio.png">
+
+
 Área utilizada para geração automática de:
 
-- FAQs
+- Testes
 - Guias de estudo
 - Linha do tempo
 - Podcasts
-- Resumos
+- Resumos em Video
 - Mapas mentais
 
 📷
 
-```
-docs/images/estudio.png
-```
+<img src="docs/images/Infografico.png">
+<img src="docs/images/slides.png">
+<img src="docs/images/cartoes.png">
 
-<img src="docs/images/estudio.png">
+
 
 ---
 
@@ -114,10 +123,10 @@ docs/images/estudio.png
 
 ## Livros
 
-| Fonte                            | Tipo  | Link |
-| -------------------------------- | ----- | ---- |
-| Fundamentals of Data Engineering | Livro |      |
-| Spark - The Definitive Guide     | PDF   |      |
+| Fonte                            | Tipo  | Link                                               |
+| -------------------------------- | ----- | -------------------------------------------------- |
+| Fundamentals of Data Engineering | Livro | [Acesse](docs/pdf/Fundamentals_DataEngineering.pdf) |
+| Spark - The Definitive Guide     | PDF   |                                                    |
 
 ---
 
@@ -136,7 +145,7 @@ docs/images/estudio.png
 | ----------------------------------- | ---- |
 | Modern Data Stack                   |      |
 | Data Lake vs Lakehouse vs Warehouse |      |
-| Tendências da Engenharia de Dados   |      |
+| Tendências da Engenharia de Dados  |      |
 
 ---
 
@@ -151,13 +160,9 @@ docs/images/estudio.png
 
 # 🗺️ Mapa Mental
 
-Adicionar imagem.
+Abaixo um mapa pemnta de alguns do princiapis assuntos abordados nesse guia.
 
-```
-docs/images/mapa-mental.png
-```
-
-<img src="docs/images/mapa-mental.png">
+<img src="docs/images/RoadMap.png">
 
 ---
 
@@ -211,11 +216,11 @@ Resumo...
 
 # 🩹 Dificuldades Encontradas
 
-| Problema                  | Como resolvi                   |
-| ------------------------- | ------------------------------ |
+| Problema                   | Como resolvi                   |
+| -------------------------- | ------------------------------ |
 | Respostas muito genéricas | Passei a limitar o contexto    |
-| IA misturando conceitos   | Solicitei tabelas comparativas |
-| Poucos exemplos           | Pedi exemplos reais            |
+| IA misturando conceitos    | Solicitei tabelas comparativas |
+| Poucos exemplos            | Pedi exemplos reais            |
 
 ---
 
@@ -275,16 +280,16 @@ Resumo...
 
 # 📖 Glossário
 
-| Termo        | Significado                   |
-| ------------ | ----------------------------- |
-| ETL          | Extract Transform Load        |
-| ELT          | Extract Load Transform        |
-| Data Lake    | Repositório de dados brutos   |
-| Lakehouse    | Mistura Data Lake + Warehouse |
-| Pipeline     | Fluxo automatizado de dados   |
-| Orquestração | Coordenação dos pipelines     |
-| Batch        | Processamento em lote         |
-| Streaming    | Processamento em tempo real   |
+| Termo          | Significado                   |
+| -------------- | ----------------------------- |
+| ETL            | Extract Transform Load        |
+| ELT            | Extract Load Transform        |
+| Data Lake      | Repositório de dados brutos  |
+| Lakehouse      | Mistura Data Lake + Warehouse |
+| Pipeline       | Fluxo automatizado de dados   |
+| Orquestração | Coordenação dos pipelines   |
+| Batch          | Processamento em lote         |
+| Streaming      | Processamento em tempo real   |
 
 ---
 
