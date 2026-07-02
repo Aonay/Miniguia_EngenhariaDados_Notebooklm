@@ -123,38 +123,51 @@ Espaço utilizado para realizar perguntas ao NotebookLM.
 
 ## Livros
 
-| Fonte                            | Tipo  | Link                                               |
-| -------------------------------- | ----- | -------------------------------------------------- |
-| Fundamentals of Data Engineering | Livro | [Acesse](docs/pdf/Fundamentals_DataEngineering.pdf) |
-| Spark - The Definitive Guide     | PDF   |                                                    |
+| Fonte                              | Tipo | Link                                                       |
+| ---------------------------------- | ---- | ---------------------------------------------------------- |
+| Fundamentals of Data Engineering   | PDF  | [Acesse](docs/pdf/Fundamentals_DataEngineering.pdf)         |
+| Spark - The Definitive Guide       | PDF  | [Acesse](<docs/pdf/Spark-The Definitive Guide.pdf>)         |
+| Data Engineering Google Cloud      | PDF  | [Acesse](docs/pdf/DataEngineering_GoogleCloud.pdf)          |
+| Design Data Intensive Applications | PDF  | [Acesse](docs/pdf/DesigningData_IntensiveApplications.pdf)  |
+| Python fod Data Analysis           | PDF  | [Acesse](docs/pdf/Python-for-Data-Analysis.pdf)             |
+| SnowFlake                          | PDF  | [Acesse](docs/pdf/Snowflake.pdf)                            |
 
 ---
 
 ## Documentações Oficiais
 
-| Fonte          | Link |
-| -------------- | ---- |
-| Apache Airflow |      |
-| dbt            |      |
+| Fonte          | Link                                                                               |
+| -------------- | ---------------------------------------------------------------------------------- |
+| Apache Airflow | [Acesse](https://airflow.apache.org/docs/)                                          |
+| dbt            | [Acesse](https://docs.getdbt.com/docs/build/documentation?version=2.0&name=Fusion)  |
 
 ---
 
 ## Artigos
 
-| Fonte                               | Link |
-| ----------------------------------- | ---- |
-| Modern Data Stack                   |      |
-| Data Lake vs Lakehouse vs Warehouse |      |
-| Tendências da Engenharia de Dados  |      |
+
+
+| **Título**                                                                                             | **Link**                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **5 boas práticas com Data FinOps para reduzir custos na nuvem**                                       | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Feleflow.com.br%2Fpt%2F5-boas-praticas-com-data-finops-para-reduzir-custos-na-nuvem%2F)                               |
+| **7 melhores ferramentas de ETL Open Source**                                                           | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.mindtek.com.br%2F2025%2F11%2F7-melhores-ferramentas-etl-open-source%2F)                                          |
+| **BI Analyst - Developer Roadmaps**                                                                     | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Froadmap.sh%2Fbi-analyst)                                                                                             |
+| **Cloud Data Engineering 2026: AWS, GCP, Azure Full Guide - Data Vidhya**                               | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Fdatavidhya.com%2Flearn%2Fcloud-and-infrastructure%2F)                                                                |
+| **Data Engineering with Apache Airflow, Snowflake, Snowpark, dbt & Cosmos**                             | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.snowflake.com%2Fen%2Fdevelopers%2Fguides%2Fdata-engineering-with-apache-airflow%2F)                              |
+| **GCP data engineer certification vs AWS data certification : r/dataengineering - Reddit**              | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.reddit.com%2Fr%2Fdataengineering%2Fcomments%2Fk3cjk3%2Fgcp_data_engineer_certification_vs_aws_data%2F)           |
+| **Modern Data Engineering Architecture Across AWS, GCP, and Azure - DEV Community**                     | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Fdev.to%2Fsalma_aga%2Fmodern-data-engineering-architecture-across-aws-gcp-and-azure-14o3)                             |
+| **Roadmap Engenharia de Dados 2026 - Matheus Domingos's Newsletter**                                    | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Fmatheusdomingos.substack.com%2Fp%2Froadmap-engenharia-de-dados-2026)                                                 |
+| **Tendências da Engenharia de Dados para 2026: IA, Lakehouse, Data Mesh e o Futuro dos Dados - Cetax** | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Fcetax.com.br%2Fengenharia-de-dados-em-2026%2F)                                                                       |
+| **Update: Starting with Data Engineer roadmap - things to keep in mind? - Reddit**                      | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.reddit.com%2Fr%2Fdataengineersindia%2Fcomments%2F1tbvrez%2Fupdate_starting_with_data_engineer_roadmap_things%2F) |
 
 ---
 
 ## Vídeos
 
-| Fonte                             | Link |
-| --------------------------------- | ---- |
-| Perguntas que eliminam candidatos |      |
-| Roadmap Engenharia de Dados       |      |
+| Fonte                                                                  | Link                                                   |
+| ---------------------------------------------------------------------- | ------------------------------------------------------ |
+| Perguntas que eliminam candidatos                                      | [Youtube](https://www.youtube.com/watch?v=VIW-7V_6Jwc)  |
+| APACHE AIRFLOW 3.0 - Tudo sobre a nova era da orquestração de dados! | [Youtube](https://www.youtube.com/watch?v=j6m4fW3SkzQ)  |
 
 ---
 
