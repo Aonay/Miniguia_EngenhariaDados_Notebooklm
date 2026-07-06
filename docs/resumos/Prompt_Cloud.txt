@@ -1,0 +1,50 @@
+Crie um resumo estruturado com markdown (use tabelas quando fizer comparativos) sobre os seguintes assuntos em Engenharia de Software
+"
+Cloud:
+- Microsoft Azure:Explique os principais serviços relacionados a dados, integração, processamento, armazenamento e casos de uso.
+- AWS:Explique os principais serviços de dados, armazenamento, processamento, analytics e integração entre serviços.
+- Google Cloud:Explique os principais serviços como BigQuery, Dataflow, Pub/Sub, Cloud Storage e aplicações em pipelines modernos.
+
+
+" utilizando todas as fontes deste NotebookLM.
+
+Para cada tipo de assunto estruture além do descrito e se fizer sentido, os seguintes tópicos:
+
+O que é - Explique o conceito de forma simples.
+
+Objetivo - Qual problema esse conceito resolve?
+
+Como funciona - Explique passo a passo seu funcionamento.
+
+Principais componentes - Liste os principais elementos envolvidos.
+
+Vantagens - Liste os principais benefícios.
+
+Desvantagens - Liste limitações e desafios.
+
+Casos de uso -  Apresente exemplos reais onde esse conceito é aplicado. 
+
+Exemplos práticos - Inclua pelo menos dois exemplos.
+
+Relação com outros conceitos - Explique como esse assunto se conecta com outros temas da Engenharia de Dados.
+
+Ferramentas relacionadas - Cite as principais ferramentas utilizadas.
+
+Boas práticas - Liste recomendações para utilização.
+
+Tendências - Explique como esse conceito está evoluindo.
+
+Resumo em 5 tópicos - Finalize resumindo tudo em apenas cinco bullets.
+
+Ao final de cada assunto, inclua uma tabela contendo:
+
+| Conceito | Descrição |
+|-----------|-----------|
+
+Em seguida, liste:
+
+• 5 perguntas de revisão sobre o tema;
+• 3 erros comuns ou equívocos frequentes relacionados ao assunto;
+• 3 conexões com outros temas deste NotebookLM;
+• uma recomendação de aprofundamento indicando quais tópicos estudar em seguida.
+

@@ -1,0 +1,39 @@
+Crie um resumo estruturado com markdown (use tabelas quando fizer comparativos) sobre os seguintes assuntos em Engenharia de Software
+"
+Arquitetura:
+- Data Werehouse: Explique arquitetura, modelagem, vantagens, limitações, casos de uso, ferramentas utilizadas e quando escolher essa arquitetura.
+- Data Lake: Explique o conceito, estrutura, vantagens, desafios, armazenamento de dados estruturados e não estruturados, exemplos de uso e comparação com Data Warehouse.
+- Lakehouse: Explique como combina características de Data Lake e Data Warehouse, benefícios, tecnologias utilizadas e principais casos de uso.
+- Data Mesh: Explique seus princípios, arquitetura descentralizada, domínio dos dados, vantagens, desafios e diferenças em relação às arquiteturas tradicionais.
+- Data Fabric: Explique sua arquitetura, automação, integração de dados, uso de metadados, inteligência artificial e principais aplicações.
+
+" utilizando todas as fontes deste NotebookLM.
+
+Para cada tipo de assunto estruture além do descrito, os seguintes tópicos:
+
+O que é - Explique o conceito de forma simples.
+
+Objetivo - Qual problema esse conceito resolve?
+
+Como funciona - Explique passo a passo seu funcionamento.
+
+Principais componentes - Liste os principais elementos envolvidos.
+
+Vantagens - Liste os principais benefícios.
+
+Desvantagens - Liste limitações e desafios.
+
+Casos de uso -  Apresente exemplos reais onde esse conceito é aplicado. 
+
+Exemplos práticos - Inclua pelo menos dois exemplos.
+
+Relação com outros conceitos - Explique como esse assunto se conecta com outros temas da Engenharia de Dados.
+
+Ferramentas relacionadas - Cite as principais ferramentas utilizadas.
+
+Boas práticas - Liste recomendações para utilização.
+
+Tendências - Explique como esse conceito está evoluindo.
+
+Resumo em 5 tópicos - Finalize resumindo tudo em apenas cinco bullets.
+

@@ -1,0 +1,54 @@
+Crie um resumo estruturado com markdown (use tabelas quando fizer comparativos) sobre os seguintes assuntos em Engenharia de Software
+"
+Ferramentas:
+- Apache Spark:Explique arquitetura, componentes, processamento distribuído, casos de uso, vantagens sobre Hadoop e integração com outras tecnologias.
+- Apache Airflow:Explique DAGs, agendamento, monitoramento, operadores, casos de uso e integração com pipelines de dados.
+- dbt:Explique seu funcionamento, transformação de dados baseada em SQL, versionamento, testes automatizados, documentação e integração com Data Warehouses.
+- Apache Kafka:Explique arquitetura, produtores, consumidores, tópicos, particionamento, processamento em tempo real e principais casos de uso.
+- Delta Lake:Explique como funciona, recursos ACID, versionamento, Time Travel, integração com Spark e benefícios para arquiteturas Lakehouse.
+- Docker:Explique containers, imagens, volumes, redes, vantagens e exemplos de utilização em pipelines de dados.
+- Kubernets:Explique orquestração de containers, escalabilidade, alta disponibilidade, principais componentes e aplicações em Engenharia de Dados.
+
+
+" utilizando todas as fontes deste NotebookLM.
+
+Para cada tipo de assunto estruture além do descrito, os seguintes tópicos:
+
+O que é - Explique o conceito de forma simples.
+
+Objetivo - Qual problema esse conceito resolve?
+
+Como funciona - Explique passo a passo seu funcionamento.
+
+Principais componentes - Liste os principais elementos envolvidos.
+
+Vantagens - Liste os principais benefícios.
+
+Desvantagens - Liste limitações e desafios.
+
+Casos de uso -  Apresente exemplos reais onde esse conceito é aplicado. 
+
+Exemplos práticos - Inclua pelo menos dois exemplos.
+
+Relação com outros conceitos - Explique como esse assunto se conecta com outros temas da Engenharia de Dados.
+
+Ferramentas relacionadas - Cite as principais ferramentas utilizadas.
+
+Boas práticas - Liste recomendações para utilização.
+
+Tendências - Explique como esse conceito está evoluindo.
+
+Resumo em 5 tópicos - Finalize resumindo tudo em apenas cinco bullets.
+
+Ao final de cada assunto, inclua uma tabela contendo:
+
+| Conceito | Descrição |
+|-----------|-----------|
+
+Em seguida, liste:
+
+• 5 perguntas de revisão sobre o tema;
+• 3 erros comuns ou equívocos frequentes relacionados ao assunto;
+• 3 conexões com outros temas deste NotebookLM;
+• uma recomendação de aprofundamento indicando quais tópicos estudar em seguida.
+
