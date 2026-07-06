@@ -120,8 +120,8 @@ Espaço utilizado para realizar perguntas ao NotebookLM.
 
 ## Livros
 
-| Fonte                              | Tipo | Link                                                      |
-| ---------------------------------- | ---- | --------------------------------------------------------- |
+| Fonte                              | Tipo | Link                                                       |
+| ---------------------------------- | ---- | ---------------------------------------------------------- |
 | Fundamentals of Data Engineering   | PDF  | [Acesse](docs/pdf/Fundamentals_DataEngineering.pdf)        |
 | Spark - The Definitive Guide       | PDF  | [Acesse](<docs/pdf/Spark-The Definitive Guide.pdf>)        |
 | Data Engineering Google Cloud      | PDF  | [Acesse](docs/pdf/DataEngineering_GoogleCloud.pdf)         |
@@ -133,8 +133,8 @@ Espaço utilizado para realizar perguntas ao NotebookLM.
 
 ## Documentações Oficiais
 
-| Fonte          | Link                                                                              |
-| -------------- | --------------------------------------------------------------------------------- |
+| Fonte          | Link                                                                               |
+| -------------- | ---------------------------------------------------------------------------------- |
 | Apache Airflow | [Acesse](https://airflow.apache.org/docs/)                                         |
 | dbt            | [Acesse](https://docs.getdbt.com/docs/build/documentation?version=2.0&name=Fusion) |
 
@@ -142,26 +142,26 @@ Espaço utilizado para realizar perguntas ao NotebookLM.
 
 ## Artigos
 
-| **Título**                                                                                             | **Link**                                                                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título**                                                                                             | **Link**                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **5 boas práticas com Data FinOps para reduzir custos na nuvem**                                       | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Feleflow.com.br%2Fpt%2F5-boas-praticas-com-data-finops-para-reduzir-custos-na-nuvem%2F)                               |
-| **7 melhores ferramentas de ETL Open Source**                                                           | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.mindtek.com.br%2F2025%2F11%2F7-melhores-ferramentas-etl-open-source%2F)                                          |
-| **BI Analyst - Developer Roadmaps**                                                                     | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Froadmap.sh%2Fbi-analyst)                                                                                             |
-| **Cloud Data Engineering 2026: AWS, GCP, Azure Full Guide - Data Vidhya**                               | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Fdatavidhya.com%2Flearn%2Fcloud-and-infrastructure%2F)                                                                |
-| **Data Engineering with Apache Airflow, Snowflake, Snowpark, dbt & Cosmos**                             | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.snowflake.com%2Fen%2Fdevelopers%2Fguides%2Fdata-engineering-with-apache-airflow%2F)                              |
-| **GCP data engineer certification vs AWS data certification : r/dataengineering - Reddit**              | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.reddit.com%2Fr%2Fdataengineering%2Fcomments%2Fk3cjk3%2Fgcp_data_engineer_certification_vs_aws_data%2F)           |
-| **Modern Data Engineering Architecture Across AWS, GCP, and Azure - DEV Community**                     | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Fdev.to%2Fsalma_aga%2Fmodern-data-engineering-architecture-across-aws-gcp-and-azure-14o3)                             |
-| **Roadmap Engenharia de Dados 2026 - Matheus Domingos's Newsletter**                                    | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Fmatheusdomingos.substack.com%2Fp%2Froadmap-engenharia-de-dados-2026)                                                 |
+| **7 melhores ferramentas de ETL Open Source**                                                          | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.mindtek.com.br%2F2025%2F11%2F7-melhores-ferramentas-etl-open-source%2F)                                          |
+| **BI Analyst - Developer Roadmaps**                                                                    | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Froadmap.sh%2Fbi-analyst)                                                                                             |
+| **Cloud Data Engineering 2026: AWS, GCP, Azure Full Guide - Data Vidhya**                              | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Fdatavidhya.com%2Flearn%2Fcloud-and-infrastructure%2F)                                                                |
+| **Data Engineering with Apache Airflow, Snowflake, Snowpark, dbt & Cosmos**                            | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.snowflake.com%2Fen%2Fdevelopers%2Fguides%2Fdata-engineering-with-apache-airflow%2F)                              |
+| **GCP data engineer certification vs AWS data certification : r/dataengineering - Reddit**             | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.reddit.com%2Fr%2Fdataengineering%2Fcomments%2Fk3cjk3%2Fgcp_data_engineer_certification_vs_aws_data%2F)           |
+| **Modern Data Engineering Architecture Across AWS, GCP, and Azure - DEV Community**                    | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Fdev.to%2Fsalma_aga%2Fmodern-data-engineering-architecture-across-aws-gcp-and-azure-14o3)                             |
+| **Roadmap Engenharia de Dados 2026 - Matheus Domingos's Newsletter**                                   | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Fmatheusdomingos.substack.com%2Fp%2Froadmap-engenharia-de-dados-2026)                                                 |
 | **Tendências da Engenharia de Dados para 2026: IA, Lakehouse, Data Mesh e o Futuro dos Dados - Cetax** | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Fcetax.com.br%2Fengenharia-de-dados-em-2026%2F)                                                                       |
-| **Update: Starting with Data Engineer roadmap - things to keep in mind? - Reddit**                      | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.reddit.com%2Fr%2Fdataengineersindia%2Fcomments%2F1tbvrez%2Fupdate_starting_with_data_engineer_roadmap_things%2F) |
+| **Update: Starting with Data Engineer roadmap - things to keep in mind? - Reddit**                     | [Acesse](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.reddit.com%2Fr%2Fdataengineersindia%2Fcomments%2F1tbvrez%2Fupdate_starting_with_data_engineer_roadmap_things%2F) |
 
 ---
 
 ## Vídeos
 
-| Fonte                                                                  | Link                                                  |
-| ---------------------------------------------------------------------- | ----------------------------------------------------- |
-| Perguntas que eliminam candidatos                                      | [Youtube](https://www.youtube.com/watch?v=VIW-7V_6Jwc) |
+| Fonte                                                                | Link                                                   |
+| -------------------------------------------------------------------- | ------------------------------------------------------ |
+| Perguntas que eliminam candidatos                                    | [Youtube](https://www.youtube.com/watch?v=VIW-7V_6Jwc) |
 | APACHE AIRFLOW 3.0 - Tudo sobre a nova era da orquestração de dados! | [Youtube](https://www.youtube.com/watch?v=j6m4fW3SkzQ) |
 
 ---
@@ -178,8 +178,7 @@ Acesse na integra do projeto [AQUI](https://notebooklm.google.com/notebook/524f0
 
 # 💬 Engenharia de Prompts
 
-É importante observar que que alem da Engenharia de Prompt  que pode mudar drásticamente o resultado que se quer, existem também as configurações da conversa no chat da IA, ou seja, talvez o seu prompt esteja bem estruturado, mas nas configurações o tamanho das respostas está configurado como "curta", ou a meta está "padrão" mas a sua meta é estudar. Essas configurações alteram também a saida.
-
+É importante observar que que alem da Engenharia de Prompt que pode mudar drásticamente o resultado que se quer, existem também as configurações da conversa no chat da IA, ou seja, talvez o seu prompt esteja bem estruturado, mas nas configurações o tamanho das respostas está configurado como "curta", ou a meta está "padrão" mas a sua meta é estudar. Essas configurações alteram também a saida.
 
 <img src="docs/images/configchat.png">
 
@@ -242,17 +241,16 @@ Fez sentido essa analogia com o mundo backend? Você já teve contato com alguma
 
 ## Prompt 2
 
->
 > Crie um resumo estruturado em pdf com markdown sobre os seguintes assuntos em Engenharia de Software
 > "
 > Fundamentos:
 >
-> * Engenharia de Dados: Explique o papel da Engenharia de Dados dentro de um projeto de dados, suas responsabilidades, fluxo de trabalho, tecnologias envolvidas, competências exigidas pelo mercado, relação com Ciência de Dados, Analytics e Engenharia de Software, além das tendências futuras da profissão.
-> * ETL: Explique o significado de Extract, Transform e Load, quando utilizar ETL, vantagens, limitações, exemplos práticos, ferramentas utilizadas e diferenças em relação ao ELT.
-> * ELT: Explique como funciona, quando utilizar, diferenças para ETL, vantagens, limitações, exemplos práticos e plataformas que utilizam essa abordagem.
-> * Batch: Explique funcionamento, vantagens, limitações, exemplos práticos, principais ferramentas e quando optar por processamento em lote em vez de streaming.
-> * Pipeline: Explique todas as etapas de um pipeline moderno, desde a ingestão até o consumo dos dados, incluindo exemplos de arquiteturas e ferramentas.
-> * Orquestração: Explique sua importância, funcionamento, vantagens, exemplos de DAGs, dependências, monitoramento e ferramentas como Apache Airflow.
+> - Engenharia de Dados: Explique o papel da Engenharia de Dados dentro de um projeto de dados, suas responsabilidades, fluxo de trabalho, tecnologias envolvidas, competências exigidas pelo mercado, relação com Ciência de Dados, Analytics e Engenharia de Software, além das tendências futuras da profissão.
+> - ETL: Explique o significado de Extract, Transform e Load, quando utilizar ETL, vantagens, limitações, exemplos práticos, ferramentas utilizadas e diferenças em relação ao ELT.
+> - ELT: Explique como funciona, quando utilizar, diferenças para ETL, vantagens, limitações, exemplos práticos e plataformas que utilizam essa abordagem.
+> - Batch: Explique funcionamento, vantagens, limitações, exemplos práticos, principais ferramentas e quando optar por processamento em lote em vez de streaming.
+> - Pipeline: Explique todas as etapas de um pipeline moderno, desde a ingestão até o consumo dos dados, incluindo exemplos de arquiteturas e ferramentas.
+> - Orquestração: Explique sua importância, funcionamento, vantagens, exemplos de DAGs, dependências, monitoramento e ferramentas como Apache Airflow.
 >   " utilizando todas as fontes deste NotebookLM.
 >
 > Para cada tipo de assunto estruture além do descrito, os seguintes tópicos:
@@ -269,7 +267,7 @@ Fez sentido essa analogia com o mundo backend? Você já teve contato com alguma
 >
 > Desvantagens - Liste limitações e desafios.
 >
-> Casos de uso -  Apresente exemplos reais onde esse conceito é aplicado.
+> Casos de uso - Apresente exemplos reais onde esse conceito é aplicado.
 >
 > Exemplos práticos - Inclua pelo menos dois exemplos.
 >
@@ -298,43 +296,29 @@ Ficou alguma dúvida sobre o plano de tópicos ou quer explorar um desses concei
 <img src="docs/images/respostapp2.png">
 </details>
 
-
 ### O que funcionou
 
-✔ A IA entendeu o que eu queria e usou um exemplo comum pra quem quem é desenvolvedor backend. Falou de OLAP e OLTP como exemplo. Trouxe pro contexto de APIs e Pipelines. No geral foi uma boa resposta.
+✔ A IA realmente criou o arquivo em markdown , estruturou todo counteúdo
 
 ### O que pode melhorar
 
-❌Como a pergunta foi um pouco genérica a IA respondeu de forma sucinta e usando alguns exemplos. A responsta foi em texto markdown mas com a utilização de poucos elementos visuais que facilitam a compreensão. Uma boa melhoria no prompt seria pedir pra trazer tabelas comparativas.
+❌Apesar de ter criado o arquivo separado ela não criou em pdf com foi solicitado e sim um arquivo no estudio .
 
----
+❌Ela criou poucas tabelas e poucas comparações e deixou o markdown bem simples.
 
+❌Se pedir apenas pra gerar markdown ela responde no chat mesmo. Importante pedir pra ia gerar em markdown puro em um bloco de código, se quiser colar em outro lugar.
 
-## Prompt 3
-
-> Monte um roadmap para me tornar Engenheiro de Dados em 2026.
-
----
-
-## Prompt 4
-
-> Quais ferramentas são mais utilizadas atualmente?
-
----
-
-## Prompt 5
-
-> Quais tecnologias provavelmente dominarão os próximos anos?
+❌Ela não tem a opção de PDF nem na exportação nem quando solicitado
 
 ---
 
 # 🩹 Dificuldades Encontradas
 
-| Problema                   | Como resolvi                   |
-| -------------------------- | ------------------------------ |
-| Respostas muito genéricas | Passei a limitar o contexto    |
-| IA misturando conceitos    | Solicitei tabelas comparativas |
-| Poucos exemplos            | Pedi exemplos reais            |
+| Problema                  | Como resolvi                                                      |
+| ------------------------- | ----------------------------------------------------------------- |
+| Respostas muito genéricas | Passei a limitar o contexto e detalhar mais o que eu queria ver   |
+| Markdown simples demais   | Solicitei markdown puro melhrado em bloco de código               |
+| Comparações em texto      | Pedi que sempre que houvesse comparações fossem feitas em tabelas |
 
 ---
 
@@ -394,70 +378,423 @@ Ficou alguma dúvida sobre o plano de tópicos ou quer explorar um desses concei
 
 # 📖 Glossário
 
-| Termo          | Significado                   |
-| -------------- | ----------------------------- |
-| ETL            | Extract Transform Load        |
-| ELT            | Extract Load Transform        |
-| Data Lake      | Repositório de dados brutos  |
-| Lakehouse      | Mistura Data Lake + Warehouse |
-| Pipeline       | Fluxo automatizado de dados   |
-| Orquestração | Coordenação dos pipelines   |
-| Batch          | Processamento em lote         |
-| Streaming      | Processamento em tempo real   |
+| Termo        | Significado                   |
+| ------------ | ----------------------------- |
+| ETL          | Extract Transform Load        |
+| ELT          | Extract Load Transform        |
+| Data Lake    | Repositório de dados brutos   |
+| Lakehouse    | Mistura Data Lake + Warehouse |
+| Pipeline     | Fluxo automatizado de dados   |
+| Orquestração | Coordenação dos pipelines     |
+| Batch        | Processamento em lote         |
+| Streaming    | Processamento em tempo real   |
 
 ---
 
-# 🚀 Prompts Reutilizáveis
+# 🚀 Prompts Reutilizáveis para Estudos com NotebookLM
 
-<details>
+> Estes prompts foram desenvolvidos utilizando técnicas de **Engenharia de Prompt** para extrair respostas mais completas, consistentes e contextualizadas do NotebookLM. Cada modelo pode ser reutilizado em diferentes áreas do conhecimento, bastando substituir o assunto desejado.
 
-<summary>📌 Explicação</summary>
+---
 
-```
-Explique [tema] utilizando linguagem simples.
-```
+# 📖 1. Explicação Estruturada
 
-</details>
+## 🎯 Objetivo
 
-<details>
+Obter uma explicação completa, organizada e progressiva sobre um determinado assunto.
 
-<summary>📌 Comparação</summary>
+### Prompt
 
-```
-Compare X e Y mostrando vantagens, desvantagens e casos de uso.
-```
+```text
+Atue como um professor especialista no assunto "[TEMA]" e utilize todas as fontes disponíveis neste NotebookLM.
 
-</details>
+Explique o tema considerando diferentes níveis de conhecimento, iniciando por uma visão geral e evoluindo até conceitos mais avançados.
 
-<details>
+Estruture a resposta utilizando as seguintes seções:
 
-<summary>📌 Roadmap</summary>
+1. Definição
+2. Objetivo
+3. Como funciona
+4. Principais componentes
+5. Vantagens
+6. Limitações
+7. Casos de uso
+8. Exemplos práticos
+9. Relação com outros conceitos presentes nas fontes
+10. Boas práticas
+11. Erros comuns
+12. Tendências futuras
 
-```
-Monte um roadmap completo para aprender [tema].
-```
+Ao final:
 
-</details>
-
-<details>
-
-<summary>📌 Quiz</summary>
-
-```
-Crie 20 perguntas para testar meus conhecimentos.
-```
-
-</details>
-
-<details>
-
-<summary>📌 Entrevistas</summary>
-
-```
-Simule uma entrevista para Engenheiro de Dados.
+- Faça um resumo em cinco tópicos.
+- Crie uma analogia simples para facilitar a compreensão.
+- Sugira quais assuntos devem ser estudados em seguida.
 ```
 
-</details>
+### 📝 Técnicas de Engenharia de Prompt Utilizadas
+
+| Técnica                    | Conceito                                                                                                                  |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Role Prompting**         | Define um papel específico ("professor especialista"), orientando o modelo a responder com maior profundidade e didática. |
+| **Structured Output**      | Solicita uma estrutura fixa para tornar as respostas consistentes e fáceis de revisar.                                    |
+| **Context Grounding**      | Obriga o modelo a utilizar apenas as fontes presentes no NotebookLM, reduzindo alucinações.                               |
+| **Progressive Disclosure** | Solicita uma explicação do básico ao avançado, facilitando o aprendizado gradual.                                         |
+
+---
+
+# ⚖️ 2. Comparação entre Conceitos
+
+## 🎯 Objetivo
+
+Comparar tecnologias, arquiteturas ou metodologias de forma clara.
+
+### Prompt
+
+```text
+Compare "[CONCEITO A]" e "[CONCEITO B]" utilizando exclusivamente as informações disponíveis nas fontes deste NotebookLM.
+
+Estruture a resposta em uma tabela contendo:
+
+- Definição
+- Objetivo
+- Arquitetura
+- Vantagens
+- Desvantagens
+- Casos de uso
+- Exemplos
+- Complexidade
+- Escalabilidade
+- Custo
+- Quando utilizar
+- Quando evitar
+
+Ao final:
+
+- Resuma as principais diferenças em cinco tópicos.
+- Explique qual seria a melhor escolha para três cenários reais diferentes.
+```
+
+### 📝 Técnicas Utilizadas
+
+| Técnica                      | Conceito                                                                |
+| ---------------------------- | ----------------------------------------------------------------------- |
+| **Comparative Prompting**    | Direciona o modelo para realizar análises comparativas entre conceitos. |
+| **Constraint Prompting**     | Restringe a resposta às fontes do NotebookLM.                           |
+| **Tabular Output**           | Solicita saída em tabela para facilitar comparação visual.              |
+| **Scenario-Based Prompting** | Utiliza cenários reais para demonstrar aplicação prática.               |
+
+---
+
+# 🛣️ 3. Roadmap de Aprendizagem
+
+## 🎯 Objetivo
+
+Criar um plano de estudos progressivo.
+
+### Prompt
+
+```text
+Crie um roadmap completo para aprender "[TEMA]" utilizando todas as fontes deste NotebookLM.
+
+Organize o conteúdo em níveis de dificuldade:
+
+- Iniciante
+- Básico
+- Intermediário
+- Avançado
+- Especialista
+
+Para cada etapa informe:
+
+- Objetivos de aprendizagem
+- Conceitos essenciais
+- Ferramentas
+- Pré-requisitos
+- Exercícios recomendados
+- Projetos práticos
+- Tempo médio de estudo
+
+Ao final, apresente uma linha do tempo sugerida para concluir todo o roadmap.
+```
+
+### 📝 Técnicas Utilizadas
+
+| Técnica                  | Conceito                                                        |
+| ------------------------ | --------------------------------------------------------------- |
+| **Task Decomposition**   | Divide um objetivo complexo em etapas menores e organizadas.    |
+| **Planning Prompting**   | Solicita um plano estruturado antes da resposta final.          |
+| **Sequential Reasoning** | Organiza o conhecimento em uma sequência lógica de aprendizado. |
+
+---
+
+# ❓ 4. Quiz Inteligente
+
+## 🎯 Objetivo
+
+Gerar exercícios para revisão.
+
+### Prompt
+
+```text
+Crie um quiz completo sobre "[TEMA]" utilizando todas as fontes disponíveis.
+
+Gere:
+
+- 10 questões fáceis
+- 10 questões intermediárias
+- 10 questões avançadas
+
+Misture:
+
+- múltipla escolha
+- verdadeiro ou falso
+- perguntas abertas
+- estudos de caso
+
+Após cada questão apresente:
+
+- resposta correta
+- explicação
+- justificativa
+- referência ao conteúdo utilizado.
+```
+
+### 📝 Técnicas Utilizadas
+
+| Técnica                        | Conceito                                           |
+| ------------------------------ | -------------------------------------------------- |
+| **Few-Shot Style Instruction** | Define claramente o formato esperado das questões. |
+| **Difficulty Scaling**         | Solicita níveis crescentes de dificuldade.         |
+| **Retrieval Grounding**        | Baseia as respostas nas fontes disponíveis.        |
+
+---
+
+# 💼 5. Simulação de Entrevista
+
+## 🎯 Objetivo
+
+Preparação para entrevistas técnicas.
+
+### Prompt
+
+```text
+Atue como um entrevistador técnico especialista em "[ÁREA]".
+
+Utilizando todas as fontes deste NotebookLM:
+
+- Faça uma pergunta por vez.
+- Aguarde minha resposta antes de prosseguir.
+- Avalie minha resposta.
+- Explique os pontos fortes.
+- Explique os pontos que precisam melhorar.
+- Mostre como seria uma resposta considerada excelente pelo mercado.
+- Ao final atribua uma nota de 0 a 10.
+```
+
+### 📝 Técnicas Utilizadas
+
+| Técnica                   | Conceito                                                  |
+| ------------------------- | --------------------------------------------------------- |
+| **Persona Prompting**     | Define o modelo como entrevistador técnico.               |
+| **Interactive Prompting** | Cria uma interação contínua em vez de uma resposta única. |
+| **Self-Evaluation**       | Solicita análise crítica da resposta do usuário.          |
+
+---
+
+# 🧠 6. Mapa Mental
+
+## 🎯 Objetivo
+
+Organizar visualmente um tema.
+
+### Prompt
+
+```text
+Crie um mapa mental completo sobre "[TEMA]" utilizando todas as fontes deste NotebookLM.
+
+Organize o conteúdo em níveis hierárquicos.
+
+Inclua:
+
+- conceitos principais
+- subtópicos
+- conexões entre conceitos
+- exemplos
+- ferramentas relacionadas
+- tendências futuras
+
+Utilize palavras-chave curtas em cada nó.
+```
+
+### 📝 Técnicas Utilizadas
+
+| Técnica                      | Conceito                                        |
+| ---------------------------- | ----------------------------------------------- |
+| **Hierarchical Structuring** | Organiza informações em níveis hierárquicos.    |
+| **Knowledge Mapping**        | Estimula a criação de relações entre conceitos. |
+| **Summarization Prompting**  | Condensa informações em palavras-chave.         |
+
+---
+
+# 📊 7. Infográfico
+
+## 🎯 Objetivo
+
+Criar um resumo visual.
+
+### Prompt
+
+```text
+Crie um infográfico sobre "[TEMA]" utilizando todas as fontes deste NotebookLM.
+
+Organize o conteúdo em blocos contendo:
+
+- conceito
+- importância
+- aplicações
+- ferramentas
+- vantagens
+- tendências
+
+Utilize frases curtas e destaque os pontos mais importantes.
+```
+
+### 📝 Técnicas Utilizadas
+
+| Técnica                     | Conceito                                              |
+| --------------------------- | ----------------------------------------------------- |
+| **Visual Structuring**      | Solicita organização semelhante a materiais gráficos. |
+| **Information Compression** | Resume grandes quantidades de informação.             |
+| **Semantic Grouping**       | Agrupa conceitos relacionados em blocos temáticos.    |
+
+---
+
+# 📝 8. Resumo Estruturado
+
+## 🎯 Objetivo
+
+Criar um material completo para revisão.
+
+### Prompt
+
+```text
+Crie um resumo estruturado sobre "[TEMA]" utilizando todas as fontes deste NotebookLM.
+
+Estruture em:
+
+- Definição
+- Objetivo
+- Funcionamento
+- Componentes
+- Benefícios
+- Limitações
+- Casos de uso
+- Exemplos
+- Ferramentas relacionadas
+- Boas práticas
+- Tendências
+
+Ao final gere:
+
+- um glossário
+- cinco perguntas de revisão
+- três erros comuns
+- três conexões com outros assuntos
+- uma sugestão de aprofundamento.
+```
+
+### 📝 Técnicas Utilizadas
+
+| Técnica                           | Conceito                                                                 |
+| --------------------------------- | ------------------------------------------------------------------------ |
+| **Template Prompting**            | Utiliza um modelo padronizado para respostas consistentes.               |
+| **Retrieval-Augmented Prompting** | Incentiva o uso das informações presentes nas fontes do NotebookLM.      |
+| **Knowledge Consolidation**       | Consolida conceitos, exemplos e conexões em um único material de estudo. |
+
+---
+
+# 📚 9. Glossário Inteligente
+
+## 🎯 Objetivo
+
+Criar um dicionário de termos técnicos.
+
+### Prompt
+
+```text
+Crie um glossário completo sobre "[TEMA]" utilizando exclusivamente as fontes deste NotebookLM.
+
+Para cada termo apresente:
+
+- definição
+- explicação simplificada
+- exemplo prático
+- relação com outros conceitos
+- importância dentro do tema
+
+Organize os termos em ordem alfabética.
+```
+
+### 📝 Técnicas Utilizadas
+
+| Técnica                    | Conceito                                                  |
+| -------------------------- | --------------------------------------------------------- |
+| **Controlled Output**      | Controla o formato da resposta para manter consistência.  |
+| **Knowledge Organization** | Estrutura o conhecimento em formato de referência rápida. |
+
+---
+
+# 🧩 10. Estudo de Caso
+
+## 🎯 Objetivo
+
+Aplicar teoria em situações reais.
+
+### Prompt
+
+```text
+Utilizando todas as fontes deste NotebookLM, crie um estudo de caso relacionado ao tema "[TEMA]".
+
+Apresente:
+
+- contexto do problema
+- requisitos
+- desafios
+- possíveis soluções
+- tecnologias envolvidas
+- justificativa técnica
+- boas práticas
+- lições aprendidas
+
+Ao final explique por que essa solução seria a mais adequada.
+```
+
+### 📝 Técnicas Utilizadas
+
+| Técnica                         | Conceito                                                                                               |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Scenario-Based Prompting**    | Ensina por meio de situações práticas e contextualizadas.                                              |
+| **Problem Solving Prompting**   | Estimula o raciocínio para resolução de problemas.                                                     |
+| **Decision-Oriented Prompting** | Solicita justificativas para as escolhas realizadas, aproximando a resposta de decisões do mundo real. |
+
+---
+
+## 💡 Conceitos de Engenharia de Prompt Utilizados
+
+| Técnica                      | Objetivo                                                                                                                       |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Role Prompting**           | Define um papel para o modelo (professor, arquiteto, entrevistador etc.), influenciando o estilo e a profundidade da resposta. |
+| **Context Grounding**        | Limita as respostas ao contexto ou às fontes fornecidas, reduzindo informações inventadas.                                     |
+| **Structured Output**        | Solicita um formato de saída específico (listas, tabelas ou seções), facilitando leitura e reutilização.                       |
+| **Constraint Prompting**     | Impõe restrições claras sobre escopo, formato ou conteúdo da resposta.                                                         |
+| **Task Decomposition**       | Divide tarefas complexas em etapas menores para obter respostas mais organizadas.                                              |
+| **Sequential Reasoning**     | Organiza o raciocínio em uma sequência lógica de passos ou níveis.                                                             |
+| **Scenario-Based Prompting** | Utiliza cenários práticos para contextualizar e aplicar o conhecimento.                                                        |
+| **Template Prompting**       | Define um modelo padronizado de resposta, garantindo consistência entre diferentes consultas.                                  |
+| **Interactive Prompting**    | Conduz uma conversa iterativa, em que o modelo faz perguntas, recebe respostas e ajusta a interação.                           |
+| **Knowledge Mapping**        | Organiza conceitos e suas relações em estruturas hierárquicas, como mapas mentais.                                             |
+| **Information Compression**  | Resume grandes volumes de informação em pontos-chave, preservando o essencial para revisão rápida.                             |
 
 ---
 
